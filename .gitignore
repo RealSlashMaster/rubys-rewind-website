@@ -1,0 +1,3 @@
+# The editor saves through a temporary file next to the page.
+.*.saving
+.Trash-*
