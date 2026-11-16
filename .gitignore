@@ -1,3 +1,5 @@
 # The editor saves through a temporary file next to the page.
 .*.saving
 .Trash-*
+# Gary's sync keeps the newest pull request here so the editor can work on it (not part of the site).
+Preview/
